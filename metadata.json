@@ -1,0 +1,7 @@
+{
+  "name": "AutoMoto",
+  "description": "A powerful tool for motorcycle dealers, flippers, and enthusiasts to track inventory, manage expenses, and calculate profitability for each vehicle.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
